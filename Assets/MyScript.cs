@@ -7,7 +7,11 @@ public class MyScript : MonoBehaviour
    
     void Start()
     {
-        print("Hello Worid");
+        
+        int x = 10;
+        int y = 20;
+        int z = x + y;
+        print(z);
     }
 
    
