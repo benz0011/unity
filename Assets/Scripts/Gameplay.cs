@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class Gameplay : MonoBehaviour
 {
-    
+    Int counter=0;
+   
     
     
     void Update()
